@@ -5,6 +5,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-hello-world
-nvidia/cuda:11.8.0-cudnn8-devel-ubuntu20.04
+#hello-world
+#nvidia/cuda:11.8.0-cudnn8-devel-ubuntu20.04
 homeassistant/home-assistant:latest
+ollama/ollama:latest
